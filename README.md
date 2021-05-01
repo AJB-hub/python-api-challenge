@@ -18,4 +18,4 @@ Other data such as humidity yielded no correlation, however additional testing w
 
 Using weather data from OpenWeather and Google Places, we can see hotels around the world that are in locations with favorable weather.
 
-<img src='./VacationsPy/output_data/MarkerSnip.png'></img>
+<img src='./VacationsPy/output_data/MarkerSnip.PNG'></img>
